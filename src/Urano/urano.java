@@ -1,8 +1,7 @@
 package Urano;
 
 import Models.*;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.util.List;
 
 public class urano implements Balanca<Produto> {

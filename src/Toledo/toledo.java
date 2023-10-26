@@ -1,8 +1,7 @@
 package Toledo;
 
 import Models.*;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.util.List;
 
 public class toledo implements Balanca<Produto> {
